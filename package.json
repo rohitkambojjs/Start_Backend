@@ -1,0 +1,20 @@
+{
+  "name": "start-backend",
+  "version": "1.0.0",
+  "description": "Start backend with build a app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
